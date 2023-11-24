@@ -1,0 +1,16 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "backend for youtube like app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "js"
+  ],
+  "author": "Harish Sarki",
+  "license": "ISC"
+}
