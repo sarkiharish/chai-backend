@@ -29,7 +29,7 @@ connectDB()
 
 
 
-
+//one way of connecting db within iife:
 
 /*
 import express from 'express';
